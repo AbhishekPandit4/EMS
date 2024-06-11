@@ -1,0 +1,13 @@
+.center-table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-left: 450px;
+  /* margin: 50px; */
+}
+
+.table-container {
+  width: 100%; /* Adjust width as needed */
+  margin: auto;
+}
